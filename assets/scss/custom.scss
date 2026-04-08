@@ -1,0 +1,48 @@
+/* Custom overrides for avatar and subtitle */
+
+.sidebar header {
+    align-items: center;
+    text-align: center;
+}
+
+.sidebar header .site-avatar {
+    margin: 0 auto;
+    width: 140px !important;
+    height: 140px !important;
+}
+
+.sidebar header .site-avatar .site-logo {
+    width: 100%;
+    height: 100%;
+}
+
+.sidebar header .site-meta {
+    width: 100%;
+    padding: 0 var(--spacing-sm);
+}
+
+.site-author {
+    font-size: 1.6rem !important;
+    color: var(--accent-color);
+    margin: 0;
+    margin-bottom: 0.5rem;
+    font-weight: 700;
+    line-height: 1.2;
+    transition: color 0.3s ease;
+}
+
+.site-name {
+    transition: color 0.3s ease;
+}
+
+.site-description {
+    line-height: 1.7;
+    word-break: break-word;
+    hyphens: auto;
+    max-width: 100%;
+    white-space: normal;
+    font-size: 0.95rem;
+    margin: 0;
+    color: var(--text-secondary);
+    transition: color 0.3s ease;
+}

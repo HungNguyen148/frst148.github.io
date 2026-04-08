@@ -1,75 +1,75 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tags on The Villain Hub</title>
-        <link>https://hungnguyen148.github.io/frstblog/tags/</link>
+        <link>http://localhost:1313/frstblog/tags/</link>
         <description>Recent content in Tags on The Villain Hub</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>vi</language>
-        <lastBuildDate>Mon, 26 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://hungnguyen148.github.io/frstblog/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 26 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/frstblog/tags/index.xml" rel="self" type="application/rss+xml" /><item>
             <title>Gallery</title>
-            <link>https://hungnguyen148.github.io/frstblog/tags/gallery/</link>
+            <link>http://localhost:1313/frstblog/tags/gallery/</link>
             <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
-            <guid>https://hungnguyen148.github.io/frstblog/tags/gallery/</guid>
+            <guid>http://localhost:1313/frstblog/tags/gallery/</guid>
             <description></description>
         </item><item>
             <title>Photoswipe</title>
-            <link>https://hungnguyen148.github.io/frstblog/tags/photoswipe/</link>
+            <link>http://localhost:1313/frstblog/tags/photoswipe/</link>
             <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
-            <guid>https://hungnguyen148.github.io/frstblog/tags/photoswipe/</guid>
+            <guid>http://localhost:1313/frstblog/tags/photoswipe/</guid>
             <description></description>
         </item><item>
             <title>Privacy</title>
-            <link>https://hungnguyen148.github.io/frstblog/tags/privacy/</link>
+            <link>http://localhost:1313/frstblog/tags/privacy/</link>
             <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
-            <guid>https://hungnguyen148.github.io/frstblog/tags/privacy/</guid>
+            <guid>http://localhost:1313/frstblog/tags/privacy/</guid>
             <description></description>
         </item><item>
             <title>Shortcodes</title>
-            <link>https://hungnguyen148.github.io/frstblog/tags/shortcodes/</link>
+            <link>http://localhost:1313/frstblog/tags/shortcodes/</link>
             <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
-            <guid>https://hungnguyen148.github.io/frstblog/tags/shortcodes/</guid>
+            <guid>http://localhost:1313/frstblog/tags/shortcodes/</guid>
             <description></description>
         </item><item>
             <title>Css</title>
-            <link>https://hungnguyen148.github.io/frstblog/tags/css/</link>
+            <link>http://localhost:1313/frstblog/tags/css/</link>
             <pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate>
-            <guid>https://hungnguyen148.github.io/frstblog/tags/css/</guid>
+            <guid>http://localhost:1313/frstblog/tags/css/</guid>
             <description></description>
         </item><item>
             <title>Html</title>
-            <link>https://hungnguyen148.github.io/frstblog/tags/html/</link>
+            <link>http://localhost:1313/frstblog/tags/html/</link>
             <pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate>
-            <guid>https://hungnguyen148.github.io/frstblog/tags/html/</guid>
+            <guid>http://localhost:1313/frstblog/tags/html/</guid>
             <description></description>
         </item><item>
             <title>Markdown</title>
-            <link>https://hungnguyen148.github.io/frstblog/tags/markdown/</link>
+            <link>http://localhost:1313/frstblog/tags/markdown/</link>
             <pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate>
-            <guid>https://hungnguyen148.github.io/frstblog/tags/markdown/</guid>
+            <guid>http://localhost:1313/frstblog/tags/markdown/</guid>
             <description></description>
         </item><item>
             <title>Themes</title>
-            <link>https://hungnguyen148.github.io/frstblog/tags/themes/</link>
+            <link>http://localhost:1313/frstblog/tags/themes/</link>
             <pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate>
-            <guid>https://hungnguyen148.github.io/frstblog/tags/themes/</guid>
+            <guid>http://localhost:1313/frstblog/tags/themes/</guid>
             <description></description>
         </item><item>
             <title>Diagrams</title>
-            <link>https://hungnguyen148.github.io/frstblog/tags/diagrams/</link>
+            <link>http://localhost:1313/frstblog/tags/diagrams/</link>
             <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
-            <guid>https://hungnguyen148.github.io/frstblog/tags/diagrams/</guid>
+            <guid>http://localhost:1313/frstblog/tags/diagrams/</guid>
             <description></description>
         </item><item>
             <title>Mermaid</title>
-            <link>https://hungnguyen148.github.io/frstblog/tags/mermaid/</link>
+            <link>http://localhost:1313/frstblog/tags/mermaid/</link>
             <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
-            <guid>https://hungnguyen148.github.io/frstblog/tags/mermaid/</guid>
+            <guid>http://localhost:1313/frstblog/tags/mermaid/</guid>
             <description></description>
         </item><item>
             <title>隐私</title>
-            <link>https://hungnguyen148.github.io/frstblog/tags/%E9%9A%90%E7%A7%81/</link>
+            <link>http://localhost:1313/frstblog/tags/%E9%9A%90%E7%A7%81/</link>
             <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-            <guid>https://hungnguyen148.github.io/frstblog/tags/%E9%9A%90%E7%A7%81/</guid>
+            <guid>http://localhost:1313/frstblog/tags/%E9%9A%90%E7%A7%81/</guid>
             <description></description>
         </item></channel>
 </rss>

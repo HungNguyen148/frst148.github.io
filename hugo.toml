@@ -25,3 +25,8 @@ ignoreLogs = ['warning-goldmark-raw-html']
 
 [services.disqus]
     shortname = "hugo-theme-stack"
+
+[params.sidebar]
+    avatar = "img/avatar.png"
+    author = "hung.nd"
+    subtitle = "Say what robs you of your staunch heart, or forever leave it to the wider fields of fancy."
