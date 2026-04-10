@@ -5,23 +5,17 @@
         <description>Recent content in Categories on The Villain Hub</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>vi</language>
-        <lastBuildDate>Mon, 26 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/frstblog/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 10 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/frstblog/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>Fiction Analysis</title>
+            <link>http://localhost:1313/frstblog/categories/fiction-analysis/</link>
+            <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/frstblog/categories/fiction-analysis/</guid>
+            <description></description>
+        </item><item>
             <title>Documentation</title>
             <link>http://localhost:1313/frstblog/categories/documentation/</link>
-            <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
+            <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
             <guid>http://localhost:1313/frstblog/categories/documentation/</guid>
             <description>&lt;img src=&#34;http://localhost:1313/frstblog/&#34; alt=&#34;Featured image of post Documentation&#34; /&gt;</description>
-        </item><item>
-            <title>Syntax</title>
-            <link>http://localhost:1313/frstblog/categories/syntax/</link>
-            <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/frstblog/categories/syntax/</guid>
-            <description></description>
-        </item><item>
-            <title>Themes</title>
-            <link>http://localhost:1313/frstblog/categories/themes/</link>
-            <pubDate>Tue, 23 Dec 2025 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/frstblog/categories/themes/</guid>
-            <description></description>
         </item></channel>
 </rss>
