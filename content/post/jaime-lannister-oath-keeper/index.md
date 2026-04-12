@@ -1,5 +1,5 @@
 ---
-title: "Chapter 5: Kẻ giữ lời thề"
+title: "Chapter 5: Ser Jaime Lannister - Kẻ giữ lời thề"
 date: 2026-04-10
 categories:
   - Fiction Analysis
