@@ -1,0 +1,4 @@
+[footer]
+    builtWith  = "Built with {{ .Generator }}"
+    # Để trống để ẩn dòng "Theme Stack designed by Jimmy"
+    designedBy = ""

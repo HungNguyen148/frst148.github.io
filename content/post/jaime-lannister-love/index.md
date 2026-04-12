@@ -21,6 +21,8 @@ Catelyn mỉa mai:
 Jaime lấy chiếc bình và rót đầy cốc rượu:
 > "Có quá nhiều lời tuyên thệ... họ sẽ bắt bà thề, thề và thề. Bảo vệ nhà vua. Tuân lệnh nhà vua. Giữ bí mật cho ngài. Phụng sự ngài. Hy sinh bản thân vì ngài. Nhưng phải nghe lời cha. Yêu quý chị em gái. Bảo vệ người vô tội. Bảo vệ kẻ yếu. Tôn trọng các vị thần. Tuân thủ luật pháp. Quá nhiều. Dù có làm gì thì bà cũng phải từ bỏ lời thề này để thực hiện lời thề khác."
 
+![Gia Tộc Lannister](featured2.png)
+
 Jaime vốn là người có cái tôi cao, nếu không muốn nói là kiêu ngạo, bất cần đời, từ trẻ đã thế, và sau khi trở thành "Kẻ Giết Vua", anh còn kiêu ngạo hơn nữa. Với một người đã phá bỏ chính lời thề thiêng liêng của mình, bị tất thảy mọi người khinh bỉ, thì danh dự, có là gì đâu? Anh đâu cần mất công làm hài lòng mọi người, khi chính họ đã khinh bỉ anh, đã cho rằng anh không còn danh dự?
 
 À đúng, danh dự ở đâu khi một hiệp sĩ Vệ Vương lại rút kiếm đâm chết chính vị vua đó? Danh dự ở đâu khi anh ăn nằm với chính chị gái mình, và sinh ra đến ba người con? Danh dự ở đâu với một kẻ mang danh "Kẻ Giết Vua"? 
@@ -36,7 +38,7 @@ Những hành động này không phải những hành động của một hiệ
 
 Tình yêu của anh, là với Cersei, với Tyrion, với cha anh Tywin, với gia tộc Lannister, với bản thân anh. Anh chẳng quan tâm gì đến những kẻ khác, anh chẳng quan tâm gì đến danh dự, bởi vì, tất cả cũng đâu còn coi anh là một người có chút danh dự nào nữa đâu?
 
-![Gia Tộc Lannister](featured2.png)
+![Tywin, Cercei, Jaime và Tyrion Lannister](featured3.png)
 
 Trong mắt họ, anh không còn là Ser Jaime Lannister của Casterly Rock, mà chỉ còn là một tên Kẻ Giết Vua hèn hạ, khốn nạn. Cũng tốt thôi, thà là như thế, còn thoải mái hơn bảo vệ một kẻ điên loạn sẵn sàng thiêu rụi cả một thành phố.
 

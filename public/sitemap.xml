@@ -8,13 +8,7 @@
     <loc>http://localhost:1313/frstblog/categories/</loc>
     <lastmod>2026-04-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/frstblog/p/chapter-4-ser-jaime-lannister-hi%E1%BB%87p-s%C4%A9-c%E1%BB%A7a-h%E1%BB%99i-v%E1%BB%87-v%C6%B0%C6%A1ng/</loc>
-    <lastmod>2026-04-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/frstblog/p/chapter-5-k%E1%BA%BB-gi%E1%BB%AF-l%E1%BB%9Di-th%E1%BB%81/</loc>
-    <lastmod>2026-04-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/frstblog/tags/character-evolution/</loc>
     <lastmod>2026-04-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/frstblog/categories/fiction-analysis/</loc>
@@ -35,14 +29,20 @@
     <loc>http://localhost:1313/frstblog/post/</loc>
     <lastmod>2026-04-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/frstblog/tags/redemption/</loc>
-    <lastmod>2026-04-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/frstblog/tags/redemption-arc/</loc>
     <lastmod>2026-04-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/frstblog/tags/</loc>
     <lastmod>2026-04-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/frstblog/p/chapter-4-ser-jaime-lannister-hi%E1%BB%87p-s%C4%A9-c%E1%BB%A7a-h%E1%BB%99i-v%E1%BB%87-v%C6%B0%C6%A1ng/</loc>
+    <lastmod>2026-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/frstblog/tags/character-evolution/</loc>
+    <lastmod>2026-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/frstblog/tags/redemption/</loc>
+    <lastmod>2026-04-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/frstblog/p/chapter-3-jaime-lannister-con-s%C6%B0-t%E1%BB%AD-qu%C3%A8-c%E1%BB%A5t/</loc>
     <lastmod>2026-03-20T00:00:00+00:00</lastmod>

@@ -6,12 +6,6 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>vi</language>
         <lastBuildDate>Fri, 10 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/frstblog/tags/index.xml" rel="self" type="application/rss+xml" /><item>
-            <title>Character Evolution</title>
-            <link>http://localhost:1313/frstblog/tags/character-evolution/</link>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/frstblog/tags/character-evolution/</guid>
-            <description></description>
-        </item><item>
             <title>Final Choice</title>
             <link>http://localhost:1313/frstblog/tags/final-choice/</link>
             <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
@@ -36,16 +30,22 @@
             <guid>http://localhost:1313/frstblog/tags/motherhood/</guid>
             <description></description>
         </item><item>
-            <title>Redemption</title>
-            <link>http://localhost:1313/frstblog/tags/redemption/</link>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
-            <guid>http://localhost:1313/frstblog/tags/redemption/</guid>
-            <description></description>
-        </item><item>
             <title>Redemption Arc</title>
             <link>http://localhost:1313/frstblog/tags/redemption-arc/</link>
             <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
             <guid>http://localhost:1313/frstblog/tags/redemption-arc/</guid>
+            <description></description>
+        </item><item>
+            <title>Character Evolution</title>
+            <link>http://localhost:1313/frstblog/tags/character-evolution/</link>
+            <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/frstblog/tags/character-evolution/</guid>
+            <description></description>
+        </item><item>
+            <title>Redemption</title>
+            <link>http://localhost:1313/frstblog/tags/redemption/</link>
+            <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
+            <guid>http://localhost:1313/frstblog/tags/redemption/</guid>
             <description></description>
         </item><item>
             <title>Character Development</title>
