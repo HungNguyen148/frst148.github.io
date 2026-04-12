@@ -14,7 +14,7 @@ image: featured.png
 
 Nhưng đã từ khi nào Jaime lại trở nên như thế? Đã từ khi nào anh không còn đi trên con đường của một hiệp sĩ chân chính? Đã từ khi nào anh không còn theo đuổi ước mơ về một ngày trở thành một hiệp sĩ vĩ đại, được dân chúng tôn thờ, được ca ngợi trong những bài ca? 
 
-> "Và ta, đứa bé mà ta đã từng là... nó đã ra đi từ lúc nào, ta vẫn luôn tự hỏi? Khi ta khoác lên mình tấm áo choàng trắng ư? Hay khi ta cắt cổ họng của Aerys? Đứa bé đã từng mơ trở thành Ser Arthur Dayne, vậy mà trên đường nó đã lạc lối, để rồi trở thành Hiệp Sĩ Mặt Cười..."
+> Và ta, đứa bé mà ta đã từng là... nó đã ra đi từ lúc nào, ta vẫn luôn tự hỏi? Khi ta khoác lên mình tấm áo choàng trắng ư? Hay khi ta cắt cổ họng của Aerys? Đứa bé đã từng mơ trở thành Ser Arthur Dayne, vậy mà trên đường nó đã lạc lối, để rồi trở thành Hiệp Sĩ Mặt Cười...
 
 <!-- more -->
 
@@ -32,7 +32,7 @@ Trước kia anh còn được tôn trọng vì anh vẫn là hiệp sĩ, vẫn 
 
 Và trên đoạn đường bị áp giải về Vương Đô bởi Brienne, anh luôn mồm trêu chọc cô, anh vẫn còn kiêu ngạo, anh vẫn còn cái sự "vô sỉ" của mình. 
 
-> "À phải rồi, ta thua các người chỉ vì ta bị đánh lén, vì ta bị xiềng xích, hãy cứ thử trả lại ta thanh kiếm, để xem dưới gầm trời này, ai có thể địch lại được ta đây? Các người sợ ta, cho nên mới không dám đấu tay đôi với ta..."
+> À phải rồi, ta thua các người chỉ vì ta bị đánh lén, vì ta bị xiềng xích, hãy cứ thử trả lại ta thanh kiếm, để xem dưới gầm trời này, ai có thể địch lại được ta đây? Các người sợ ta, cho nên mới không dám đấu tay đôi với ta...
 
 Dù ta là kẻ bị khinh bỉ, dù ta là Kẻ Giết Vua, thì ta vẫn là Ser Jaime Lannister, vẫn là một hiệp sĩ Vệ Vương. Đó là tất cả những gì tự hào nhất của Jaime - tài năng của anh, là không thể chối cãi.
 
@@ -67,7 +67,7 @@ Anh đã muốn chết đi, anh chẳng còn thiết sống. Và mỉa mai thay,
 
 ![Jaime ở Harrenhal](featured2.png)
 
-> "Cô gái nhà quê đó nói đúng. Anh không thể chết. Cersei đang đợi anh. Chắc chắn nàng rất cần anh. Và cả Tyrion, cậu em trai bé nhỏ của anh nữa, dù cậu ta không thật lòng yêu quý anh. Và cả kẻ thù của anh nữa - Sói Trẻ đã đánh bại anh trong trận rừng Whispering và giết người của anh, Edmure Tully đã giam cầm anh trong bóng tối và xiềng xích, và cả đám Chiến Binh Dũng Cảm này nữa."
+> Cô gái nhà quê đó nói đúng. Anh không thể chết. Cersei đang đợi anh. Chắc chắn nàng rất cần anh. Và cả Tyrion, cậu em trai bé nhỏ của anh nữa, dù cậu ta không thật lòng yêu quý anh. Và cả kẻ thù của anh nữa - Sói Trẻ đã đánh bại anh trong trận rừng Whispering và giết người của anh, Edmure Tully đã giam cầm anh trong bóng tối và xiềng xích, và cả đám Chiến Binh Dũng Cảm này nữa.
 
 Sau cùng, anh vẫn là Ser Jaime của nhà Lannister, một con sư tử có què cụt, có bị dày vò, thì nó vẫn là sư tử. 
 
@@ -78,8 +78,6 @@ Bởi vì thế, anh ép mình phải sống, anh phải sống sót, phải vư
 Nhưng anh mặc kệ. Nếu các vị thần muốn đày ải anh như thế, thì anh sẽ gắng gượng mà chịu đựng. Nếu các vị thần muốn dồn anh vào chỗ chết, thì anh sẽ gắng mà sống. 
 
 Bởi vì anh là Ser Jaime Lannister kia mà, anh vẫn phải bảo vệ Cersei, anh vẫn phải bảo vệ các con của anh, những người con mãi mãi không bao giờ biết anh là cha chúng.
-
-Một con sư tử có què cụt, có bị dày vò, thì nó vẫn là một con sư tử.
 
 ---
 

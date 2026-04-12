@@ -16,10 +16,10 @@ Ser Jaime Lannister là một con sư tử của Casterly Rock, và có lẽ anh
 <!-- more -->
 
 Catelyn mỉa mai: 
-> "Ngươi vẫn còn tự nhận mình là một hiệp sĩ được sao, trong khi ngươi đã phá bỏ mọi lời thề của mình?"
+> Ngươi vẫn còn tự nhận mình là một hiệp sĩ được sao, trong khi ngươi đã phá bỏ mọi lời thề của mình?
 
 Jaime lấy chiếc bình và rót đầy cốc rượu:
-> "Có quá nhiều lời tuyên thệ... họ sẽ bắt bà thề, thề và thề. Bảo vệ nhà vua. Tuân lệnh nhà vua. Giữ bí mật cho ngài. Phụng sự ngài. Hy sinh bản thân vì ngài. Nhưng phải nghe lời cha. Yêu quý chị em gái. Bảo vệ người vô tội. Bảo vệ kẻ yếu. Tôn trọng các vị thần. Tuân thủ luật pháp. Quá nhiều. Dù có làm gì thì bà cũng phải từ bỏ lời thề này để thực hiện lời thề khác."
+> Có quá nhiều lời tuyên thệ... họ sẽ bắt bà thề, thề và thề. Bảo vệ nhà vua. Tuân lệnh nhà vua. Giữ bí mật cho ngài. Phụng sự ngài. Hy sinh bản thân vì ngài. Nhưng phải nghe lời cha. Yêu quý chị em gái. Bảo vệ người vô tội. Bảo vệ kẻ yếu. Tôn trọng các vị thần. Tuân thủ luật pháp. Quá nhiều. Dù có làm gì thì bà cũng phải từ bỏ lời thề này để thực hiện lời thề khác.
 
 ![Gia Tộc Lannister](featured2.png)
 
@@ -32,8 +32,6 @@ Jaime chẳng cần thứ danh dự đó, anh đã giết Aerys, nhưng điều 
 
 Nói như vậy, cũng không có nghĩa mọi việc anh làm đều đúng đắn. Nó chỉ đúng với bản thân anh mà thôi, mọi điều anh làm là vì bản thân, vì chị gái, vì cha, vì gia tộc Lannister. Anh đã đẩy cậu bé Bran từ cửa sổ xuống vì cậu vô tình chứng kiến anh và Cersei ở cùng nhau. Anh chặn đường Eddard Stark và đòi giết ông vì vợ Eddard là Catelyn đã bắt giữ em trai anh. Anh chẳng từ việc gì, dù nó có vô sỉ tới đâu, miễn bản thân anh và gia tộc anh có lợi, thế là đủ.
 
-Những hành động này không phải những hành động của một hiệp sĩ cao quý. Chúng là hành động của một người bao vây bởi sự ích kỷ, bởi tình yêu gia tộc, bởi những lý do không thể để công khai pháp luật hay danh dự.
-
 **Jaime Lannister: "Ta làm tất cả vì tình yêu"**
 
 Tình yêu của anh, là với Cersei, với Tyrion, với cha anh Tywin, với gia tộc Lannister, với bản thân anh. Anh chẳng quan tâm gì đến những kẻ khác, anh chẳng quan tâm gì đến danh dự, bởi vì, tất cả cũng đâu còn coi anh là một người có chút danh dự nào nữa đâu?
@@ -41,8 +39,6 @@ Tình yêu của anh, là với Cersei, với Tyrion, với cha anh Tywin, với
 ![Tywin, Cercei, Jaime và Tyrion Lannister](featured3.png)
 
 Trong mắt họ, anh không còn là Ser Jaime Lannister của Casterly Rock, mà chỉ còn là một tên Kẻ Giết Vua hèn hạ, khốn nạn. Cũng tốt thôi, thà là như thế, còn thoải mái hơn bảo vệ một kẻ điên loạn sẵn sàng thiêu rụi cả một thành phố.
-
-Vậy có lẽ, từ khi Jaime trở thành "Kẻ Giết Vua", anh đã từ bỏ cố gắng để hiểu được đón nhận, và chỉ tập trung vào những gì anh còn có, những thứ mà anh có thể kiểm soát được - gia tộc của mình. Nhưng đâu là ranh giới giữa tình yêu gia tộc và sự ích kỷ, giữa sự bảo vệ những người thân yêu và việc gây tổn thương những người vô tội, đó mới là câu hỏi thực sự cần trả lời.
 
 ---
 

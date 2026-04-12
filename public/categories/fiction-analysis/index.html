@@ -12,7 +12,7 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap">
 
 
-<link rel="stylesheet" href="/frstblog/scss/style.min.524d2012ca2411dc5eaec477625748f11531c92a34791be1b563422be0903bae.css"><meta property='og:title' content="Fiction Analysis">
+<link rel="stylesheet" href="/frstblog/scss/style.min.d2067f489a36db829b45b33a3b8f238969e1098427f38bef214df607991f7172.css"><meta property='og:title' content="Fiction Analysis">
 <meta property='og:description' content="Say what robs you of your staunch heart, or forever leave it to the wider fields of fancy.">
 <meta property='og:url' content='http://localhost:1313/frstblog/categories/fiction-analysis/'>
 <meta property='og:site_name' content='The Villain Hub'>
@@ -52,14 +52,15 @@
 
     <header>
         <figure class="site-avatar">
-                <a href="/frstblog/">
+                <button class="avatar-btn" id="avatar-btn" aria-label="View avatar" style="border: none; padding: 0; background: none; cursor: pointer;">
                     <img src="/frstblog/img/avatar.png" 
                         width="1075"
                         height="1305"
                         class="site-logo"
                         loading="lazy"
-                        alt="Avatar">
-                </a>
+                        alt="Avatar"
+                        style="object-fit: cover; object-position: center; display: block; width: 100%; height: 100%;">
+                </button>
                 
             </figure>
         
@@ -173,6 +174,135 @@
     </ol>
 </aside>
 
+
+<div id="avatar-modal" class="avatar-modal">
+    <div class="avatar-modal-content">
+        <button class="avatar-modal-close" id="avatar-modal-close">&times;</button>
+        <img src="/frstblog/img/avatar.png" alt="Avatar in fullscreen" class="avatar-fullscreen">
+        
+    </div>
+</div>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        const avatarBtn = document.getElementById('avatar-btn');
+        const modal = document.getElementById('avatar-modal');
+        const closeBtn = document.getElementById('avatar-modal-close');
+
+        
+        avatarBtn && avatarBtn.addEventListener('click', function() {
+            modal.classList.add('show');
+            document.body.style.overflow = 'hidden';
+        });
+
+        
+        closeBtn && closeBtn.addEventListener('click', function() {
+            modal.classList.remove('show');
+            document.body.style.overflow = '';
+        });
+
+        
+        modal && modal.addEventListener('click', function(e) {
+            if (e.target === modal) {
+                modal.classList.remove('show');
+                document.body.style.overflow = '';
+            }
+        });
+
+        
+        document.addEventListener('keydown', function(e) {
+            if (e.key === 'Escape' && modal && modal.classList.contains('show')) {
+                modal.classList.remove('show');
+                document.body.style.overflow = '';
+            }
+        });
+    });
+</script>
+
+<style>
+    .avatar-modal {
+        display: none;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: rgba(0, 0, 0, 0.8);
+        z-index: 9999;
+        opacity: 0;
+        transition: opacity 0.3s ease;
+        padding: 10px;
+        box-sizing: border-box;
+    }
+
+    .avatar-modal.show {
+        display: flex;
+        opacity: 1;
+    }
+
+    .avatar-modal-content {
+        position: relative;
+        width: min(90vw, 90vh);
+        height: min(90vh, 90vw);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: auto;
+    }
+
+    .avatar-fullscreen {
+        width: 100%;
+        height: 100%;
+        border-radius: 8px;
+        object-fit: contain;
+        object-position: center;
+        display: block;
+        animation: zoomIn 0.3s ease;
+    }
+
+    @keyframes zoomIn {
+        from {
+            transform: scale(0.9);
+            opacity: 0;
+        }
+        to {
+            transform: scale(1);
+            opacity: 1;
+        }
+    }
+
+    .avatar-modal-close {
+        position: fixed;
+        top: max(10px, 2vh);
+        right: max(10px, 2vw);
+        font-size: clamp(28px, 5vw, 40px);
+        font-weight: bold;
+        color: white;
+        background: none;
+        border: none;
+        cursor: pointer;
+        z-index: 10001;
+        padding: 0;
+        width: clamp(35px, 8vw, 50px);
+        height: clamp(35px, 8vw, 50px);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 50%;
+        transition: background 0.2s ease;
+    }
+
+    .avatar-modal-close:hover {
+        background: rgba(255, 255, 255, 0.1);
+    }
+
+    .avatar-btn {
+        display: block;
+        width: 100%;
+        height: 100%;
+    }
+</style>
+
     
 
             <main class="main full-width">
@@ -196,13 +326,13 @@
         <section class="article-list--compact">
             
                 <article>
-    <a href="/frstblog/p/chapter-5-k%E1%BA%BB-gi%E1%BB%AF-l%E1%BB%9Di-th%E1%BB%81/">
+    <a href="/frstblog/p/chapter-5-ser-jaime-lannister-k%E1%BA%BB-gi%E1%BB%AF-l%E1%BB%9Di-th%E1%BB%81/">
         <div class="article-details">
-            <h2 class="article-title">Chapter 5: Kẻ giữ lời thề</h2>
+            <h2 class="article-title">Chapter 5: Ser Jaime Lannister - Kẻ giữ lời thề</h2>
                 <footer class="article-meta"><time datetime="2026-04-10T00:00:00Z">Friday, April 10, 2026</time>
                 </footer></div>
         <div class="article-image">
-            <img alt="Chapter 5: Kẻ giữ lời thề" height="60" loading="lazy" src="/frstblog/p/chapter-5-k%E1%BA%BB-gi%E1%BB%AF-l%E1%BB%9Di-th%E1%BB%81/featured_hu_ae7bfa3eaa982dcc.png" srcset="/frstblog/p/chapter-5-k%E1%BA%BB-gi%E1%BB%AF-l%E1%BB%9Di-th%E1%BB%81/featured_hu_ae7bfa3eaa982dcc.png 1x, /frstblog/p/chapter-5-k%E1%BA%BB-gi%E1%BB%AF-l%E1%BB%9Di-th%E1%BB%81/featured_hu_bd3468402f59e293.png 2x" width="60">
+            <img alt="Chapter 5: Ser Jaime Lannister - Kẻ giữ lời thề" height="60" loading="lazy" src="/frstblog/p/chapter-5-ser-jaime-lannister-k%E1%BA%BB-gi%E1%BB%AF-l%E1%BB%9Di-th%E1%BB%81/featured_hu_ae7bfa3eaa982dcc.png" srcset="/frstblog/p/chapter-5-ser-jaime-lannister-k%E1%BA%BB-gi%E1%BB%AF-l%E1%BB%9Di-th%E1%BB%81/featured_hu_ae7bfa3eaa982dcc.png 1x, /frstblog/p/chapter-5-ser-jaime-lannister-k%E1%BA%BB-gi%E1%BB%AF-l%E1%BB%9Di-th%E1%BB%81/featured_hu_bd3468402f59e293.png 2x" width="60">
 
         </div>
         
@@ -244,7 +374,7 @@
                 <footer class="article-meta"><time datetime="2026-03-11T00:00:00Z">Wednesday, March 11, 2026</time>
                 </footer></div>
         <div class="article-image">
-            <img alt="Chapter 2: Jaime Lannister - Ta làm tất cả vì tình yêu" height="60" loading="lazy" src="/frstblog/p/chapter-2-jaime-lannister-ta-l%C3%A0m-t%E1%BA%A5t-c%E1%BA%A3-v%C3%AC-t%C3%ACnh-y%C3%AAu/featured_hu_befc83c91d78f52c.png" srcset="/frstblog/p/chapter-2-jaime-lannister-ta-l%C3%A0m-t%E1%BA%A5t-c%E1%BA%A3-v%C3%AC-t%C3%ACnh-y%C3%AAu/featured_hu_befc83c91d78f52c.png 1x, /frstblog/p/chapter-2-jaime-lannister-ta-l%C3%A0m-t%E1%BA%A5t-c%E1%BA%A3-v%C3%AC-t%C3%ACnh-y%C3%AAu/featured_hu_eadc594d4cfc462e.png 2x" width="60">
+            <img alt="Chapter 2: Jaime Lannister - Ta làm tất cả vì tình yêu" height="60" loading="lazy" src="/frstblog/p/chapter-2-jaime-lannister-ta-l%C3%A0m-t%E1%BA%A5t-c%E1%BA%A3-v%C3%AC-t%C3%ACnh-y%C3%AAu/featured_hu_ab236d91efc4ecb1.png" srcset="/frstblog/p/chapter-2-jaime-lannister-ta-l%C3%A0m-t%E1%BA%A5t-c%E1%BA%A3-v%C3%AC-t%C3%ACnh-y%C3%AAu/featured_hu_ab236d91efc4ecb1.png 1x, /frstblog/p/chapter-2-jaime-lannister-ta-l%C3%A0m-t%E1%BA%A5t-c%E1%BA%A3-v%C3%AC-t%C3%ACnh-y%C3%AAu/featured_hu_4fc7070acb35a3b4.png 2x" width="60">
 
         </div>
         
@@ -258,7 +388,7 @@
                 <footer class="article-meta"><time datetime="2026-03-05T00:00:00Z">Thursday, March 5, 2026</time>
                 </footer></div>
         <div class="article-image">
-            <img alt="Chapter 1: Jaime Lannister - Kẻ phá bỏ lời thề" height="60" loading="lazy" src="/frstblog/p/chapter-1-jaime-lannister-k%E1%BA%BB-ph%C3%A1-b%E1%BB%8F-l%E1%BB%9Di-th%E1%BB%81/featured_hu_befc83c91d78f52c.png" srcset="/frstblog/p/chapter-1-jaime-lannister-k%E1%BA%BB-ph%C3%A1-b%E1%BB%8F-l%E1%BB%9Di-th%E1%BB%81/featured_hu_befc83c91d78f52c.png 1x, /frstblog/p/chapter-1-jaime-lannister-k%E1%BA%BB-ph%C3%A1-b%E1%BB%8F-l%E1%BB%9Di-th%E1%BB%81/featured_hu_eadc594d4cfc462e.png 2x" width="60">
+            <img alt="Chapter 1: Jaime Lannister - Kẻ phá bỏ lời thề" height="60" loading="lazy" src="/frstblog/p/chapter-1-jaime-lannister-k%E1%BA%BB-ph%C3%A1-b%E1%BB%8F-l%E1%BB%9Di-th%E1%BB%81/featured_hu_cd151ddabaa7e0bb.png" srcset="/frstblog/p/chapter-1-jaime-lannister-k%E1%BA%BB-ph%C3%A1-b%E1%BB%8F-l%E1%BB%9Di-th%E1%BB%81/featured_hu_cd151ddabaa7e0bb.png 1x, /frstblog/p/chapter-1-jaime-lannister-k%E1%BA%BB-ph%C3%A1-b%E1%BB%8F-l%E1%BB%9Di-th%E1%BB%81/featured_hu_964ecce97cc58cdd.png 2x" width="60">
 
         </div>
         

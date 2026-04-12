@@ -23,13 +23,9 @@ Nhưng đó không phải là Cersei. Người đó mặc toàn màu xám, màu 
 > "Nàng" anh nói, "nàng muốn gì ở ta?" Từ cuối cùng trong câu nói của anh vọng lên nóc điện rồi dội xuống, tatatatatatata.
 
 
-> "Ta không phải chị ngươi, Jaime."
+> "Ta không phải chị ngươi, Jaime." Người phụ nữ giơ một bàn tay xanh xao lên kéo chiếc mũ xuống. "Ngươi quên ta rồi sao?"
 
-Người phụ nữ giơ một bàn tay xanh xao lên kéo chiếc mũ xuống. "Ngươi quên ta rồi sao?"
-
-> "Làm sao ta có thể quên một người chưa từng gặp mặt?"
-
-Nhưng từ ngữ nghẹn lại trong cổ họng anh. Anh biết người đó, nhưng là từ lâu lắm rồi...
+> "Làm sao ta có thể quên một người chưa từng gặp mặt?" Nhưng từ ngữ nghẹn lại trong cổ họng anh. Anh biết người đó, nhưng là từ lâu lắm rồi...
 
 > "Ngươi sẽ quên cả cha mình sao? Ta tự hỏi ngươi có thực sự biết ông ấy không, thật đấy."
 
@@ -37,32 +33,26 @@ Mắt người phụ nữ màu xanh lục, mái tóc vàng óng ả. Anh không 
 
 > "Ông ấy không thể chịu được khi bị kẻ khác chê cười. Đó là điều ông ấy ghét nhất."
 
-> "Bà là ai?"
-Anh phải được nghe cái tên từ chính miệng người phụ nữ.
+> "Bà là ai?" Anh phải được nghe cái tên từ chính miệng người phụ nữ.
 
 > "Câu hỏi phải là, con là ai?"
 
 > "Đây chỉ là một giấc mơ."
 
-> "Thật không?" 
-Người phụ nữ mỉm cười buồn bã. 
+> "Thật không? Người phụ nữ mỉm cười buồn bã."
 
-> "Vậy thì đếm số tay của con đi, con trai."
-Một. Một tay đang cầm chặt chuôi kiếm. Tất cả chỉ có một. 
+> Vậy thì đếm số tay của con đi, con trai.
+ 
 
-> "Trong giấc mơ, con luôn có hai tay." 
-Anh giơ tay phải lên và nhìn chăm chăp một cách vô thức vào vết cụt xấu xí trên đó.
+> "Một. Một tay đang cầm chặt chuôi kiếm. Tất cả chỉ có một. Trong giấc mơ, con luôn có hai tay." Anh giơ tay phải lên và nhìn chăm chăm một cách vô thức vào vết cụt xấu xí trên đó.
 
 > "Chúng ta đều mơ về những thứ mình không có được. Tywin từng mơ một ngày con trai ông ấy sẽ trở thành một hiệp sĩ vĩ đại, còn con gái sẽ trở thành hoàng hậu. Ông mơ ước chúng phải dũng cảm và xinh đẹp để không ai có thể cười nhạo chúng."
 
-> "Con là hiệp sĩ," 
-Anh nói với bà
-> "và Cersei đã là hoàng hậu."
+> "Con là hiệp sĩ", Anh nói với bà, "Và Cersei đã là hoàng hậu."
 
 Một giọt nước mắt lăn xuống trên má người phụ nữ. Bà đội mũ lên và quay bước. Jaime gọi theo nhưng bà đã bỏ đi, váy bà thì thầm như những lời hát ru khi quết xuống nền đá. 
 
-> "Đừng bỏ con" 
-Anh muốn hét lên, nhưng tất nhiên bà đã bỏ họ mà đi từ lâu lắm rồi.
+> "Đừng bỏ con" Anh muốn hét lên, nhưng tất nhiên bà đã bỏ họ mà đi từ lâu lắm rồi.
 
 Đó chỉ là một giấc mơ... hay đó là sự thật? Jaime đang mơ hay đang tỉnh? 
 
@@ -99,5 +89,3 @@ Nhưng giờ đây, sau bao nhiêu năm trời, một lần nữa cậu bé ngà
 ---
 
 **Kết thúc series: Jaime Lannister - Từ Kẻ Giết Vua Đến Hiệp Sĩ Thực Sự**
-
-*Một câu chuyện về sự cứu chuộc, sự lựa chọn, và con đường tìm lại danh dự - không phải cho người khác.*

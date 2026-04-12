@@ -80,8 +80,6 @@ Cersei đã là một hoàng hậu, rồi trở thành thái hậu nhiếp chín
 
 Jaime đã là một hiệp sĩ, nhưng không phải là Arthur Dayne, mà là Hiệp Sĩ Mặt Cười. Dù anh đang quay lại để đi con đường đúng kia, nhưng anh vẫn chưa tìm được con đường đúng đắn.
 
-Có lẽ Ser Jaime Lannister, dù có tìm kiếm bao nhiêu, vẫn sẽ không bao giờ trở thành Ser Arthur Dayne được. Nhưng có lẽ, chính việc cố gắng đó, chính việc đi tìm lại danh dự, chính việc sẵn sàng chịu đựng và cố gắng làm điều đúng đắn - dù có mất mát bao nhiêu - chính những thứ ấy đó có thể là cách để Jaime Lannister trở thành một hiệp sĩ thực sự, có lẽ không phải như Arthur Dayne, nhưng là một hiệp sĩ theo cách của chính anh.
-
 ---
 
 *Tiếp theo, Chapter 5: Ser Jaime Lannister - Kẻ giữ lời thề*
